@@ -5,7 +5,7 @@ spring:
 server:
   port: 8201
 
-#向2台服务器注册
+
 eureka:
   client:
     service-url:
